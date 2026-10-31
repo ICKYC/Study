@@ -1,30 +1,16 @@
-## 테스트 글 작성
+# Network Portfolio
 
-**Github이란?**
+> 네트워크 엔지니어를 목표로 직접 구축하고, 검증하고, 장애를 해결한 기록입니다.
 
-- 분산 버전 관리 툴인 Git 저장소 호스팅을 지원하는 웹 서비스
-- 대부분 Code를 위해 사용된다
-- README 파일을 통한 문서화
-    1. README 작성법 : 최대한 간결하면서 
-    2. 오픈소스를 참고하면서 작성
+## About
+- 목표 직무: 네트워크 엔지니어
+- 학습 방향: 개념은 간결하게, **실습과 트러블슈팅 중심**
+- 실습 환경: Cisco Packet Tracer
 
-**Repository 생성이 출발**
+## Contents
 
-1. Repository 관리
-    1. Code
-        1. Git을 통한 형상 관리/협업은 필수
-        2. 여러명이 같이 프로젝트를 진행한다면 필수 ,혼자 작성하더라고, Add - Commit - Push
-
-Blog 관리
-
-- 플랫폼은 상관 없음
-- 내가 어떤 사람인가?
-    - 같이 일했을때 어떤 느낌을 줄것인가?
-    - 프로젝트를 나열하는 것도 좋지만, 내가 어떤 사람인가?
-        1. 사진
-            1. 대기업,공기업은 반명함
-            2. 자유로운 기업, 게임사 등은 그 외의 사진
-- 첫눈에 들어오는 말이 내 인상이다.
-    - 위 말을 토대로 아래 내용들도 비슷한 느낌을 줘야 함
-    
-    !Untitled
+### 1. Fundamentals (개념)
+- [OSI 7계층 / TCP-IP](./1.Fundamentals/1.OSI-TCPIP.md)
+- [IP 주소 / 서브넷](./1.Fundamentals/2.IP-Subnet.md)
+- [Switching 기초 (VLAN, STP)](./1.Fundamentals/3.Switching.md)
+- [Routing 기초 (Static, OSPF)](./1.Fundamentals/4.Routing.md)
